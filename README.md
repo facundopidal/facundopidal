@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Facundo Pidal Ruiz Diaz
+# ¡Hola! Soy Facundo Pidal Ruiz Diaz
 
 **Desarrollador Frontend**
 
