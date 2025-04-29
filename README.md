@@ -1,6 +1,6 @@
 # ¡Hola! Soy Facundo Pidal Ruiz Diaz
 
-**Desarrollador Web**
+**Desarrollador Web orientado al frontend**
 
 ---
 
