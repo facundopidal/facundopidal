@@ -7,7 +7,7 @@
 ### 🛠️ Tecnologías que uso
 
 - **Frontend:** Angular, HTML, CSS, Tailwind, JavaScript
-- **Backend:** Node.js, Express
+- **Backend:** Node.js, Express, Nestjs
 - **Bases de Datos:** MySQL, SQLite
 - **Otros:** Tauri
 
